@@ -1,2 +1,0 @@
-##Bugixes:
-- Create Bugfix.md
